@@ -1,0 +1,16 @@
+C:\Users\eriks\Documents\UFMG\2022-2\sda\clienteTCPIP\bin\Debug\netcoreapp3.1\clienteTCPIP.exe
+C:\Users\eriks\Documents\UFMG\2022-2\sda\clienteTCPIP\bin\Debug\netcoreapp3.1\clienteTCPIP.deps.json
+C:\Users\eriks\Documents\UFMG\2022-2\sda\clienteTCPIP\bin\Debug\netcoreapp3.1\clienteTCPIP.runtimeconfig.json
+C:\Users\eriks\Documents\UFMG\2022-2\sda\clienteTCPIP\bin\Debug\netcoreapp3.1\clienteTCPIP.runtimeconfig.dev.json
+C:\Users\eriks\Documents\UFMG\2022-2\sda\clienteTCPIP\bin\Debug\netcoreapp3.1\clienteTCPIP.dll
+C:\Users\eriks\Documents\UFMG\2022-2\sda\clienteTCPIP\bin\Debug\netcoreapp3.1\clienteTCPIP.pdb
+C:\Users\eriks\Documents\UFMG\2022-2\sda\clienteTCPIP\obj\Debug\netcoreapp3.1\clienteTCPIP.csproj.AssemblyReference.cache
+C:\Users\eriks\Documents\UFMG\2022-2\sda\clienteTCPIP\obj\Debug\netcoreapp3.1\clienteTCPIP.Form1.resources
+C:\Users\eriks\Documents\UFMG\2022-2\sda\clienteTCPIP\obj\Debug\netcoreapp3.1\clienteTCPIP.csproj.GenerateResource.cache
+C:\Users\eriks\Documents\UFMG\2022-2\sda\clienteTCPIP\obj\Debug\netcoreapp3.1\clienteTCPIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Documents\UFMG\2022-2\sda\clienteTCPIP\obj\Debug\netcoreapp3.1\clienteTCPIP.AssemblyInfoInputs.cache
+C:\Users\eriks\Documents\UFMG\2022-2\sda\clienteTCPIP\obj\Debug\netcoreapp3.1\clienteTCPIP.AssemblyInfo.cs
+C:\Users\eriks\Documents\UFMG\2022-2\sda\clienteTCPIP\obj\Debug\netcoreapp3.1\clienteTCPIP.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Documents\UFMG\2022-2\sda\clienteTCPIP\obj\Debug\netcoreapp3.1\clienteTCPIP.dll
+C:\Users\eriks\Documents\UFMG\2022-2\sda\clienteTCPIP\obj\Debug\netcoreapp3.1\clienteTCPIP.pdb
+C:\Users\eriks\Documents\UFMG\2022-2\sda\clienteTCPIP\obj\Debug\netcoreapp3.1\clienteTCPIP.genruntimeconfig.cache
